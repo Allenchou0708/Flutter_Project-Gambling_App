@@ -10,4 +10,4 @@ In this app, we will that the user to earn game points by 3 ways, they are daily
 ## How to use it
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can download the android version here : https://drive.google.com/file/d/1twSZW3T8QG6V6V9tVAjU2a_EhBfJyDng/view
 
-(IOS version is still developing)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(IOS version is still developing)
