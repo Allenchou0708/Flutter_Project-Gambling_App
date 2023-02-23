@@ -13,3 +13,9 @@ In this app, we will let user earn game points by 3 ways, which are daily check 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(IOS version is still developing)
 
 ## Demo Picture
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/1.jpg)
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/2.jpg)
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/3.jpg)
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/4.jpg)
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/5.jpg)
+![xxx](https://github.com/Allenchou0708/Flutter_Project-Gambling_App/blob/main/Flutter/6.jpg)
