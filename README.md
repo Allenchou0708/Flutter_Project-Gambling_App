@@ -11,3 +11,5 @@ In this app, we will let user earn game points by 3 ways, which are daily check 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can download the android version here : https://drive.google.com/file/d/1twSZW3T8QG6V6V9tVAjU2a_EhBfJyDng/view
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(IOS version is still developing)
+
+## Demo Picture
