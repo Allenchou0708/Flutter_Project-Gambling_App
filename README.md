@@ -13,4 +13,4 @@ In this app, we will let user earn game points by 3 ways, which are daily check 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(IOS version is still developing)
 
 ## Demo Picture
-You can check the folder "Flutter"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can check the folder "Flutter"
